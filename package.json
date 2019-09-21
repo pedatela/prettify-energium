@@ -1,10 +1,11 @@
 {
 	"name": "prettify-energium",
+	"publisher": "prettify-energium",
 	"displayName": "Prettify Energium",
 	"description": "Convert Energium String",
 	"version": "0.1.0",
 	"engines": {
-		"vscode": "^1.31.0"
+		"vscode": "^1.38.0"
 	},
 	"categories": [
 		"Other"
